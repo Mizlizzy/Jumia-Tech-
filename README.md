@@ -14,6 +14,8 @@ Process flow chat
 ![image](https://github.com/Mizlizzy/Jumia-Tech-/assets/125541494/1c832782-1344-4e2f-ad89-cbdf8eea22db)
 
 ![image](https://github.com/Mizlizzy/Jumia-Tech-/assets/125541494/9d166fe0-f51a-4945-a619-cf86c9c84a5c)
+# Recommendation
+A swimelane diagram process flow chart is chosen because of the actors involve in the process. This new process was recommended to Jumia Tech support during the Covid 19.
 
 
 
