@@ -4,6 +4,10 @@
 
 # Introduction
 Jumia-Tech is a large supplier of consumer hardware devices such as laptops, tablets, printers, monitors, and cables.Jumia-Tech also offers tech support services to small and medium size companies. These services include setting up new machine for new employees, responding to support issues from employeessuch as access controls, errors on their computers, malware, and security monitoring etc… Jumia- Tech also helps to physically collect machines that need to be fixed and send them to the manufacturers where needed.
+
+# Disclaimer
+All datasets and reports do not represent any company, institution or country. All info are dummy set to demonstrate my capabilities.
+
 # Problem Statement
 Since the pandemic, a new process is needed as most clients of Jumia-Tech have employees who are now working from home and technicians will need to track the inventory that is dispersed in everyone’s homes.
 # Skills Demonstrated
