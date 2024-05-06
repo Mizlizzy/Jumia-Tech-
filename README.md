@@ -14,6 +14,9 @@ Since the pandemic, a new process is needed as most clients of Jumia-Tech have e
 Business Intelligence 
 Problem Solving skills
 Process flow chat
+# Jumia Tech support As is
+![image](https://github.com/Mizlizzy/Jumia-Tech-/assets/125541494/c9a4bc47-73db-496e-b81d-53c5ff1ea53e)
+
 # Jumia Tech Support Future State Using swimelane diagram
 ![image](https://github.com/Mizlizzy/Jumia-Tech-/assets/125541494/1c832782-1344-4e2f-ad89-cbdf8eea22db)
 
